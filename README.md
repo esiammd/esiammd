@@ -10,4 +10,4 @@ Estou constantemente em busca de evolução e conhecimento.
 
 Tenho experiência com JavaScript, Typescript, NodeJS, ReactJS, React Native e Banco de Dados SQL.
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maíse-damasceno-116a85104)](https://www.linkedin.com/in/maíse-damasceno-116a85104)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maise-damasceno)](https://www.linkedin.com/in/maise-damasceno)
