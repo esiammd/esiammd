@@ -4,7 +4,7 @@
 **esiammd/esiammd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Sou uma desenvolvedora Full Stack apaixonada por programação, fotografia e design.
+Sou uma desenvolvedora Full Stack apaixonada por programação, fotografia, design e forró.
 
 Estou constantemente em busca de evolução e conhecimento.
 
