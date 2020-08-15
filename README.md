@@ -4,8 +4,6 @@
 **esiammd/esiammd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Oieee 👋
-
 Me chamo Maíse, sou formada em Engenharia de Computação e sou apaixonada por programação, fotografia e design.
 
 Já desenvolvi projetos na área agrícola, onde desenvolvi um Sistema de Irrigação e Gerenciamento de Produção de Bananas e na área de Inteligência Artificial, trabalhando com Aprendizado por Reforço na construção de um robô para o Planejamento de Rotas em Ambientes com Obstáculos.
