@@ -1,13 +1,7 @@
-### Oieee 👋
+Olá  👋
 
-<!--
-**esiammd/esiammd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+Me chamo Maíse, sou formada em Engenharia de Computação e trabalho com programação desde 2020. No período de 2020-2021 tive a oportunidade de trabalhar no desenvolvimento de um CMS (utilizando ReactJS, NodeJS e MySQL), na construção de diferentes dashboards utilizando Metabase (com MySQL e PostgreSQL) e Power BI, bem como, na modelagem de uma base de dados PostgreSQL.
 
-Me chamo Maíse, sou formada em Engenharia de Computação e sou apaixonada por programação, fotografia e design.
-
-Já produzi projetos na área agrícola, onde desenvolvi um Sistema de Irrigação e Gerenciamento de Produção de Bananas e na área de Inteligência Artificial, trabalhando com Aprendizado por Reforço na construção de um robô para o Planejamento de Rotas em Ambientes com Obstáculos.
-
-Atualmente estudo Javascript, Typescript, ES6, NodeJS, ReactJS e React Native. E sobre prototipação de interface de usuário (UI Design) com a ferramenta Figma. Buscando constantemente evolução e conhecimento.
+Atualmente tenho trabalhado com a ferramenta Retool, na construção de funcionalidades para backoffice e com o framework NextJS para o desenvolvimento fontend.
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maise-damasceno)](https://www.linkedin.com/in/maise-damasceno)
