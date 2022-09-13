@@ -1,7 +1,7 @@
-Olá  👋
+Hola 👋
 
-Me chamo Maíse, sou formada em Engenharia de Computação e trabalho com programação desde 2020. No período de 2020-2021 tive a oportunidade de trabalhar no desenvolvimento de um CMS (utilizando ReactJS, NodeJS e MySQL), na construção de diferentes dashboards utilizando Metabase (com MySQL e PostgreSQL) e Power BI, bem como, na modelagem de uma base de dados PostgreSQL.
+Me llamo Maíse, soy graduada en Ingeniería Informática y trabajo con programación desde 2020. En el periodo 2020-2021 tuve la oportunidad de trabajar en el desarrollo de un CMS (usando ReactJS, NodeJS y MySQL), en el desarrollo de diferentes dashboards utilizando Metabase (con MySQL y PostgreSQL) y Power BI, así como, en el modelado de una base de datos PostgreSQL.
 
-Atualmente tenho trabalhado com a ferramenta Retool, na construção de funcionalidades para backoffice e com o framework NextJS para o desenvolvimento frontend.
+Actualmente estoy trabajando con la herramienta Retool, para la creación de funciones para backoffice y con el framework NextJS para el desarrollo frontend de un LMS.
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maise-damasceno)](https://www.linkedin.com/in/maise-damasceno/?locale=pt_BR)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maise-damasceno)](https://www.linkedin.com/in/maise-damasceno)
