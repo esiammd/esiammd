@@ -4,4 +4,4 @@ Me chamo Maíse, sou formada em Engenharia de Computação e trabalho com progra
 
 Atualmente tenho trabalhado com a ferramenta Retool, na construção de funcionalidades para backoffice e com o framework NextJS para o desenvolvimento frontend.
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maise-damasceno)](https://www.linkedin.com/in/maise-damasceno)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maise-damasceno)](https://www.linkedin.com/in/maise-damasceno/?locale=pt_BR)
