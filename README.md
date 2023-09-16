@@ -1,4 +1,4 @@
-Desenvolvedora Fullstack com +2 anos de experiência em JavaScript e TypeScript, frameworks ReactJS, NextJS, NodeJS e NestJS. Por sua vez, tenho experiência com bancos de dados MySQL e PostgreSQL e as ferramentas Metabase e Retool.
+Desenvolvedora Fullstack com 3 anos de experiência em JavaScript e TypeScript, frameworks ReactJS, NextJS, NodeJS e NestJS. Por sua vez, tenho experiência com bancos de dados MySQL e PostgreSQL e as ferramentas Metabase e Retool.
 
 Estou sempre em busca de novos conhecimentos, questionando e propondo melhorias para os projetos dos quais participo, onde busco continuamente entender o produto e como ele é visto pelo cliente.
 
