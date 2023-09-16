@@ -1,5 +1,5 @@
-Desenvolvedora Fullstack com 3 anos de experiência em JavaScript e TypeScript, frameworks ReactJS, NextJS, NodeJS e NestJS. Por sua vez, tenho experiência com bancos de dados MySQL e PostgreSQL e as ferramentas Metabase e Retool.
+Desarrolladora Fullstack con 3 años de experiencia con JavaScript y TypeScript, frameworks ReactJS, NextJS, NodeJS y NestJS. A su vez, poseo experiencia con bases de datos MySQL y PostgreSQL y con las herramientas Metabase y Retool.
 
-Estou sempre em busca de novos conhecimentos, questionando e propondo melhorias para os projetos dos quais participo, onde busco continuamente entender o produto e como ele é visto pelo cliente.
+Me encuentro siempre en busca de nuevos conocimientos, cuestionando y proponiendo mejoras para los proyectos en los que participo, donde continuamente busco entender el producto y cómo es visto por el cliente.
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maise-damasceno)](https://www.linkedin.com/in/maise-damasceno)
