@@ -1,6 +1,6 @@
 # 👩‍💻 Maíse Damasceno
 
-**`Desarrolladora FullStack`**
+**`Desarrolladora FullStack y Frontend`**
 
 Con más de 3 años de experiencia en el desarrollo de aplicaciones web, me especializo en crear soluciones innovadoras que mejoran la experiencia del usuario y optimizan procesos internos. Tengo un dominio sólido de JavaScript y TypeScript, así como experiencia con bases de datos MySQL y PostgreSQL.
 
